@@ -7,7 +7,7 @@ Hey there, I'm Connor. I'm a software engineering co-op student at McGill with h
 ### Skills
 Languages: Python, Java, C, HTML, JavaScript, CSS, SQL, ARM Assembly  
 Frameworks/Technologies: React, Spring Boot, Node.js  
-Tools/Platforms: [Git, Docker, AWS, etc.]  
+Tools/Platforms: Git, Docker
 Other: Agile Methodologies, RESTful APIs, Database Management  
 
 Feel free to check out my [projects](https://github.com/C-Tate?tab=repositories)!
